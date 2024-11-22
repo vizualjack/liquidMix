@@ -1,8 +1,7 @@
 # Liquid mix
 This app is a little tool you can use to mix your e-liquid for vapes. It's only supporting a base in combination with VG and H2O/Water. It's not supporting nicotine.
 
-<img src="doc/enter.png" height="500"/>
-<img src="doc/calc_result.png" height="500"/>
+<img src="doc/enter.png" height="500"/> <img src="doc/calc_result.png" height="500"/>
 
 
 ## Setup
